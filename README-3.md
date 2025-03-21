@@ -30,7 +30,7 @@ This combination allows us to:
   - PINN losses enforcing divergence-free wind fields and steady-state momentum equations.
 - Output: 45-timestep forecasts of key atmospheric variables (wind speed & direction included).
 
-![alt text](https://github.com/R3borN17/alexalowerthetemp/blob/main/Pipeline_1.jpg?raw=true)
+![alt text](https://github.com/R3borN17/alexalowerthetemp/blob/main/Pipeline_1.png?raw=true)
 
 ## Pipeline 2: TGN-Based Yaw Optimisation
 
@@ -43,7 +43,7 @@ This combination allows us to:
 
 - Output: Optimised turbine yaw angles for future wind conditions.
 
-[Insert Pipeline 2 diagram here]
+![alt text](https://github.com/R3borN17/alexalowerthetemp/blob/main/Pipeline_2.png?raw=true)
 
 ## Repository Structure
 
